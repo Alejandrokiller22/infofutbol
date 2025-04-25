@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+   <channel>
+       <title>Infofutbol</title>
+       <link>https://alejandrokiller22.github.io/infofutbol/</link>
+       <description>Últimas noticias, análisis y contenidos exclusivos sobre el mundo del fútbol.</description>
+
+       <!-- Primer artículo -->
+       <item>
+           <title>Últimos resultados de la Liga</title>
+           <link>https://alejandrokiller22.github.io/infofutbol/resultados-liga.html</link>
+           <description>Consulta los últimos resultados y estadísticas de la Liga Española.</description>
+           <guid>https://alejandrokiller22.github.io/infofutbol/resultados-liga.html</guid>
+       </item>
+
+       <!-- Segundo artículo -->
+       <item>
+           <title>Entrevista exclusiva con Lionel Messi</title>
+           <link>https://alejandrokiller22.github.io/infofutbol/entrevista-messi.html</link>
+           <description>Lee la entrevista exclusiva con Lionel Messi sobre su futuro en el fútbol.</description>
+           <guid>https://alejandrokiller22.github.io/infofutbol/entrevista-messi.html</guid>
+       </item>
+
+       <!-- Tercer artículo -->
+       <item>
+           <title>Previa del próximo Clásico Real Madrid vs Barcelona</title>
+           <link>https://alejandrokiller22.github.io/infofutbol/previa-clasico.html</link>
+           <description>Todo lo que necesitas saber antes del Clásico entre Real Madrid y Barcelona.</description>
+           <guid>https://alejandrokiller22.github.io/infofutbol/previa-clasico.html</guid>
+       </item>
+   </channel>
+</rss>
